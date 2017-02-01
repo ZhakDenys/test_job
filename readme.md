@@ -1,5 +1,5 @@
-# thumbnails_program
-Program for creating a big amount of thumbnails in a background thread.
+# Solution of Java task
+Implementations on some java task connected with OOP principles, collections and I/O streams..
 
 Create classes, which describe employees with hourly wage and fixed payment. Give your suggestions
 about relations between classes. Implement method for calculating the average monthly salary. For
